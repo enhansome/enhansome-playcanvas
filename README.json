@@ -1,0 +1,258 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlayCanvas Engine",
+          "description": "Open source JavaScript graphics application framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:01:52Z",
+            "owner": "playcanvas",
+            "repo": "engine",
+            "stars": 16478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCUI",
+          "description": "Open source front-end framework used by the PlayCanvas toolset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:01:27Z",
+            "owner": "playcanvas",
+            "repo": "pcui",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayCanvas React",
+          "description": "Open source React wrapper for the PlayCanvas Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:34:36Z",
+            "owner": "playcanvas",
+            "repo": "react",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayCanvas Web Components",
+          "description": "Open source Web Components wrapper for the PlayCanvas Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:36:53Z",
+            "owner": "playcanvas",
+            "repo": "web-components",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Texture Tool",
+          "description": "Open source tool for reprojecting textures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T11:02:30Z",
+            "owner": "playcanvas",
+            "repo": "texture-tool",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "PlayCanvas Products"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tween.js",
+          "description": "Popular JavaScript tweening library that integrates easily with PlayCanvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-11T02:00:20Z",
+            "owner": "tweenjs",
+            "repo": "tween.js",
+            "stars": 10130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@recast-navigation/playcanvas",
+          "description": "NavMesh and Pathfinding using Recast for PlayCanvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-27T07:17:13Z",
+            "owner": "recastnavigation",
+            "repo": "recastnavigation",
+            "stars": 7856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-ar",
+          "description": "Marker-based AR solution built on ARToolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-02T23:09:03Z",
+            "owner": "playcanvas",
+            "repo": "playcanvas-ar",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-tween",
+          "description": "Officially supported tween animation plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-30T12:09:45Z",
+            "owner": "playcanvas",
+            "repo": "playcanvas-tween",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-spine",
+          "description": "Spine plugin for PlayCanvas for 2D animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-31T16:11:00Z",
+            "owner": "playcanvas",
+            "repo": "playcanvas-spine",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-vue",
+          "description": "A PlayCanvas integration with Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-15T08:22:56Z",
+            "owner": "isobolewski",
+            "repo": "playcanvas-vue",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-rest-api-tools",
+          "description": "CLI tools built on the PlayCanvas REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-15T11:43:58Z",
+            "owner": "playcanvas",
+            "repo": "playcanvas-rest-api-tools",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-p2.js",
+          "description": "An integration with the p2.js 2D physics engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-04T14:28:34Z",
+            "owner": "playcanvas",
+            "repo": "playcanvas-p2.js",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kinematic Character Controller",
+          "description": "An open-source kinematic character controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-20T04:19:06Z",
+            "owner": "tatelax",
+            "repo": "playcanvas-kinematic-character-controller",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playcanvas-node",
+          "description": "REST API wrapper for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-06T05:44:15Z",
+            "owner": "yushimatenjin",
+            "repo": "playcanvas-node",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Completions",
+          "description": "Sublime Text Autocompletion for the PlayCanvas API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-02T23:05:57Z",
+            "owner": "playcanvas",
+            "repo": "sublime-completions",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Extensions and Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "Please see CONTRIBUTING for details.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:58.148Z",
+    "original_repository": "playcanvas/awesome-playcanvas",
+    "original_repository_sha": "220fcca8c054fca032ff5ff26cd8c820770609aa",
+    "enhanced_repository": "enhansome/enhansome-playcanvas",
+    "enhanced_repository_description": null,
+    "title": "Awesome PlayCanvas with stars"
+  }
+}
