@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:01:52Z",
+            "last_commit": "2026-08-13T20:55:53Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16478
+            "stars": 16481
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T11:01:27Z",
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 790
+            "stars": 791
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T03:34:36Z",
+            "last_commit": "2026-08-13T17:03:08Z",
             "owner": "playcanvas",
             "repo": "react",
             "stars": 518
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T19:36:53Z",
+            "last_commit": "2026-08-13T18:32:12Z",
             "owner": "playcanvas",
             "repo": "web-components",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-01-11T02:00:20Z",
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10130
+            "stars": 10131
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7856
+            "stars": 7858
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:58.148Z",
+    "last_updated": "2026-08-13T23:53:12.887Z",
     "original_repository": "playcanvas/awesome-playcanvas",
     "original_repository_sha": "220fcca8c054fca032ff5ff26cd8c820770609aa",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
