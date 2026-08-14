@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,481 | 🐛 538 | 🌐 JavaScript | 📅 2026-08-13 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,488 | 🐛 538 | 🌐 JavaScript | 📅 2026-08-14 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 791 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12 - Open source front-end framework used by the PlayCanvas toolset.
-* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 518 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 106 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-13 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 519 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 - Open source React wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 106 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -307,4 +307,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
