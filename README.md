@@ -31,7 +31,7 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,488 | 🐛 538 | 🌐 JavaScript | 📅 2026-08-14 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,493 | 🐛 539 | 🌐 JavaScript | 📅 2026-08-15 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 791 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 519 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 - Open source React wrapper for the PlayCanvas Engine.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 106 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14 - Open source Web Components wrapper for the PlayCanvas Engine.
@@ -69,8 +69,8 @@
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,131 | 🐛 24 | 🌐 TypeScript | 📅 2025-01-11 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,858 | 🐛 133 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,132 | 🐛 24 | 🌐 TypeScript | 📅 2025-01-11 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,859 | 🐛 133 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 256 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 52 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-31 - Spine plugin for PlayCanvas for 2D animations.
@@ -307,4 +307,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
