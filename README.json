@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T15:09:03Z",
+            "last_commit": "2026-08-19T12:44:09Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16522
+            "stars": 16524
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286531410,
             "language": "TypeScript",
             "last_commit": "2026-08-12T11:01:27Z",
             "owner": "playcanvas",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 871221302,
             "language": "TypeScript",
             "last_commit": "2026-08-13T17:03:08Z",
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 521
+            "stars": 522
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692889966,
             "language": "TypeScript",
             "last_commit": "2026-08-18T18:54:47Z",
             "owner": "playcanvas",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500933630,
             "language": "TypeScript",
             "last_commit": "2026-08-05T11:02:30Z",
             "owner": "playcanvas",
@@ -77,7 +82,7 @@
       "title": "PlayCanvas Products"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 691146,
             "language": "TypeScript",
             "last_commit": "2025-01-11T02:00:20Z",
             "owner": "tweenjs",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12849977,
             "language": "C++",
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7861
+            "stars": 7862
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100319386,
             "language": "JavaScript",
             "last_commit": "2022-02-02T23:09:03Z",
             "owner": "playcanvas",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79244696,
             "language": "JavaScript",
             "last_commit": "2025-01-30T12:09:45Z",
             "owner": "playcanvas",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48884684,
             "language": "JavaScript",
             "last_commit": "2026-01-31T16:11:00Z",
             "owner": "playcanvas",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308966831,
             "language": "JavaScript",
             "last_commit": "2022-07-15T08:22:56Z",
             "owner": "isobolewski",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323322287,
             "language": "JavaScript",
             "last_commit": "2024-08-15T11:43:58Z",
             "owner": "playcanvas",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77219220,
             "language": "JavaScript",
             "last_commit": "2023-05-04T14:28:34Z",
             "owner": "playcanvas",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1022814075,
             "language": "JavaScript",
             "last_commit": "2025-07-20T04:19:06Z",
             "owner": "tatelax",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187965916,
             "language": "TypeScript",
             "last_commit": "2023-04-06T05:44:15Z",
             "owner": "yushimatenjin",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33073108,
             "language": "JavaScript",
             "last_commit": "2022-02-02T23:05:57Z",
             "owner": "playcanvas",
@@ -235,21 +251,12 @@
         }
       ],
       "title": "Extensions and Utilities"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Games"
-    },
-    {
-      "description": "Please see CONTRIBUTING for details.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:32:26.457Z",
+    "last_updated": "2026-08-19T12:46:26.394Z",
     "original_repository": "playcanvas/awesome-playcanvas",
+    "original_repository_id": 211407533,
     "original_repository_sha": "220fcca8c054fca032ff5ff26cd8c820770609aa",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
