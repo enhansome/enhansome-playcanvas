@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:44:09Z",
+            "last_commit": "2026-08-19T12:49:56Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16524
+            "stars": 16527
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 871221302,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:03:08Z",
+            "last_commit": "2026-08-19T15:49:19Z",
             "owner": "playcanvas",
             "repo": "react",
             "stars": 522
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 692889966,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:54:47Z",
+            "last_commit": "2026-08-19T14:57:59Z",
             "owner": "playcanvas",
             "repo": "web-components",
             "stars": 107
@@ -96,7 +96,7 @@
             "last_commit": "2025-01-11T02:00:20Z",
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10132
+            "stars": 10133
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7862
+            "stars": 7863
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:46:26.394Z",
+    "last_updated": "2026-08-19T23:32:46.641Z",
     "original_repository": "playcanvas/awesome-playcanvas",
     "original_repository_id": 211407533,
     "original_repository_sha": "220fcca8c054fca032ff5ff26cd8c820770609aa",
