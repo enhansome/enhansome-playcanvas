@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T10:45:54Z",
+            "last_commit": "2026-08-22T02:29:06Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16534
+            "stars": 16539
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 692889966,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:33:36Z",
+            "last_commit": "2026-08-22T23:07:23Z",
             "owner": "playcanvas",
             "repo": "web-components",
             "stars": 107
@@ -96,7 +96,7 @@
             "last_commit": "2025-01-11T02:00:20Z",
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10135
+            "stars": 10136
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7864
+            "stars": 7868
           }
         },
         {
@@ -254,10 +254,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:34:19.281Z",
+    "last_updated": "2026-08-22T23:31:13.653Z",
     "original_repository": "playcanvas/awesome-playcanvas",
     "original_repository_id": 211407533,
-    "original_repository_sha": "5848316ac3062dcd522c6c680a173eb3b6003c44",
+    "original_repository_sha": "a6cd446dae98911b6504ad675ee9acf6b929ac0f",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
     "title": "Awesome PlayCanvas with stars"
