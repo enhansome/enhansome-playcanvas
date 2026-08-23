@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T02:29:06Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16539
+            "stars": 16544
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T15:49:19Z",
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 524
+            "stars": 525
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7868
+            "stars": 7869
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:31:13.653Z",
+    "last_updated": "2026-08-23T23:32:07.366Z",
     "original_repository": "playcanvas/awesome-playcanvas",
     "original_repository_id": 211407533,
     "original_repository_sha": "a6cd446dae98911b6504ad675ee9acf6b929ac0f",
