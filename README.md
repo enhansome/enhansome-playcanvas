@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,551 | 🐛 529 | 🌐 JavaScript | 📅 2026-08-24 - Open source JavaScript graphics application framework.
-* [PCUI](https://github.com/playcanvas/pcui) ⭐ 792 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12 - Open source front-end framework used by the PlayCanvas toolset.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,552 | 🐛 528 | 🌐 JavaScript | 📅 2026-08-24 - Open source JavaScript graphics application framework.
+* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 525 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-19 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 107 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-24 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 107 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-24 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -152,7 +152,7 @@
 * [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 * [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
-* [Quake](https://github.com/willeastcott/playcanvas-quake) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - A port of id Software's Quake to PlayCanvas.
+* [Quake](https://github.com/willeastcott/playcanvas-quake) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - A port of id Software's Quake to PlayCanvas.
 * [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 * [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 * [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
