@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:58:29Z",
+            "last_commit": "2026-08-25T02:31:20Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16552
+            "stars": 16554
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:31:19.218Z",
+    "last_updated": "2026-08-25T06:16:29.318Z",
     "original_repository": "playcanvas/awesome-playcanvas",
     "original_repository_id": 211407533,
     "original_repository_sha": "a6cd446dae98911b6504ad675ee9acf6b929ac0f",
