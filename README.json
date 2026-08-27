@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T03:53:26Z",
+            "last_commit": "2026-08-27T11:34:54Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16566
+            "stars": 16570
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T15:49:19Z",
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 524
+            "stars": 525
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T16:48:15Z",
             "owner": "playcanvas",
             "repo": "web-components",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -254,9 +254,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:21.007Z",
-    "original_repository": "playcanvas/awesome-playcanvas",
-    "original_repository_id": 211407533,
+    "last_updated": "2026-08-27T11:55:37.137Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 211407533,
+      "language": null,
+      "last_commit": "2026-08-22T19:23:40Z",
+      "owner": "playcanvas",
+      "repo": "awesome-playcanvas",
+      "stars": 482
+    },
     "original_repository_sha": "a6cd446dae98911b6504ad675ee9acf6b929ac0f",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
