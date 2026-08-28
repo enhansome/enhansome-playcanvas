@@ -12,11 +12,12 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:34:54Z",
+            "last_commit": "2026-08-28T04:51:35Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16570
-          }
+            "stars": 16575
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "playcanvas",
             "repo": "pcui",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "playcanvas",
             "repo": "react",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 692889966,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:48:15Z",
+            "last_commit": "2026-08-27T19:43:52Z",
             "owner": "playcanvas",
             "repo": "web-components",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "playcanvas",
             "repo": "texture-tool",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         }
       ],
       "title": "PlayCanvas Products"
@@ -97,7 +102,8 @@
             "owner": "tweenjs",
             "repo": "tween.js",
             "stars": 10136
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7876
-          }
+            "stars": 7878
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "playcanvas",
             "repo": "playcanvas-ar",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "playcanvas",
             "repo": "playcanvas-tween",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "playcanvas",
             "repo": "playcanvas-spine",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "isobolewski",
             "repo": "playcanvas-vue",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "playcanvas",
             "repo": "playcanvas-rest-api-tools",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "playcanvas",
             "repo": "playcanvas-p2.js",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "tatelax",
             "repo": "playcanvas-kinematic-character-controller",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "yushimatenjin",
             "repo": "playcanvas-node",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         },
         {
           "node_type": "item",
@@ -247,14 +262,15 @@
             "owner": "playcanvas",
             "repo": "sublime-completions",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:53:45.634Z"
         }
       ],
       "title": "Extensions and Utilities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:37.137Z",
+    "last_updated": "2026-08-28T06:53:45.634Z",
     "original_repository_info": {
       "archived": false,
       "id": 211407533,
