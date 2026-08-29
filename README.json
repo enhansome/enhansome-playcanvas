@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+            "homepage": "https://playcanvas.com",
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T04:51:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:18:45Z",
+            "open_issues": 531,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16575
+            "stars": 16577,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gaussian-splatting",
+              "gltf",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "playcanvas",
+              "typescript",
+              "virtual-reality",
+              "webgl",
+              "webgl2",
+              "webgpu",
+              "webxr"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -26,12 +49,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI component library for web-based tools",
+            "homepage": "https://developer.playcanvas.com/user-manual/pcui/",
             "id": 286531410,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T11:01:27Z",
+            "open_issues": 24,
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 794
+            "stars": 794,
+            "topics": [
+              "pcui",
+              "playcanvas",
+              "react",
+              "sass",
+              "typescript",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -42,12 +78,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build 3D apps with React",
+            "homepage": "https://developer.playcanvas.com/user-manual/react/",
             "id": 871221302,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T15:49:19Z",
+            "open_issues": 22,
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 525
+            "stars": 525,
+            "topics": [
+              "3d",
+              "gaussian",
+              "react",
+              "splats",
+              "webgl",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -58,12 +106,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Components for building declarative, graphical web apps",
+            "homepage": null,
             "id": 692889966,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:43:52Z",
+            "open_issues": 6,
             "owner": "playcanvas",
             "repo": "web-components",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "custom-elements",
+              "declarative",
+              "dom",
+              "html",
+              "playcanvas",
+              "typescript",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -74,12 +135,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Texture tool for graphics programmers",
+            "homepage": "https://playcanvas.com/texture-tool",
             "id": 500933630,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T11:02:30Z",
+            "open_issues": 6,
             "owner": "playcanvas",
             "repo": "texture-tool",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "graphics",
+              "pcui",
+              "playcanvas",
+              "texture",
+              "tool",
+              "webgl",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         }
@@ -96,12 +170,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript/TypeScript animation engine",
+            "homepage": "https://tweenjs.github.io/tween.js/",
             "id": 691146,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-11T02:00:20Z",
+            "open_issues": 25,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10136
+            "stars": 10136,
+            "topics": [
+              "animation",
+              "easing",
+              "easing-curves",
+              "easing-equations",
+              "easing-functions",
+              "interaction",
+              "interactive",
+              "javascript",
+              "tween",
+              "tweenjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -112,12 +203,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Industry-standard navigation-mesh toolset for games",
+            "homepage": "http://recastnav.com/",
             "id": 12849977,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2026-02-27T07:17:13Z",
+            "open_issues": 133,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7878
+            "stars": 7879,
+            "topics": [
+              "ai",
+              "crowd-simulation",
+              "game",
+              "game-ai",
+              "game-dev",
+              "game-development",
+              "game-tool",
+              "gamedev",
+              "navigation",
+              "navmesh",
+              "navmesh-generation",
+              "pathfinding",
+              "pathfinding-library"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -128,12 +238,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and Easy Augmented Reality for the Web :rocket:",
+            "homepage": null,
             "id": 100319386,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-02T23:09:03Z",
+            "open_issues": 11,
             "owner": "playcanvas",
             "repo": "playcanvas-ar",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "augmented-reality",
+              "html5",
+              "playcanvas",
+              "webar",
+              "webgl",
+              "webgl2",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -144,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tween library for PlayCanvas",
+            "homepage": null,
             "id": 79244696,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-30T12:09:45Z",
+            "open_issues": 15,
             "owner": "playcanvas",
             "repo": "playcanvas-tween",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -160,12 +288,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin component for PlayCanvas which enables support for Spine animations.",
+            "homepage": null,
             "id": 48884684,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-31T16:11:00Z",
+            "open_issues": 7,
             "owner": "playcanvas",
             "repo": "playcanvas-spine",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "html5",
+              "playcanvas",
+              "spine",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -176,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project combines the great PlayCanvas 3D engine with VUE.js",
+            "homepage": null,
             "id": 308966831,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-15T08:22:56Z",
+            "open_issues": 0,
             "owner": "isobolewski",
             "repo": "playcanvas-vue",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -192,12 +335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of tools to use with the PlayCanvas REST API for common jobs such as downloading a build and archiving a project",
+            "homepage": null,
             "id": 323322287,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-15T11:43:58Z",
+            "open_issues": 13,
             "owner": "playcanvas",
             "repo": "playcanvas-rest-api-tools",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -208,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An integration of PlayCanvas with the 2D physics engine p2.js",
+            "homepage": null,
             "id": 77219220,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-04T14:28:34Z",
+            "open_issues": 0,
             "owner": "playcanvas",
             "repo": "playcanvas-p2.js",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -224,12 +377,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kinematic Character Controller for PlayCanvas",
+            "homepage": null,
             "id": 1022814075,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-20T04:19:06Z",
+            "open_issues": 0,
             "owner": "tatelax",
             "repo": "playcanvas-kinematic-character-controller",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "controller",
+              "kinematic",
+              "playcanvas"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -240,12 +402,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REST API wrapper for Node",
+            "homepage": "https://yushimatenjin.github.io/playcanvas-node/",
             "id": 187965916,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-06T05:44:15Z",
+            "open_issues": 0,
             "owner": "yushimatenjin",
             "repo": "playcanvas-node",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "javascript",
+              "nodejs",
+              "playcanvas",
+              "rest-api"
+            ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         },
@@ -256,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sublime Text completions file for PlayCanvas",
+            "homepage": null,
             "id": 33073108,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-02T23:05:57Z",
+            "open_issues": 1,
             "owner": "playcanvas",
             "repo": "sublime-completions",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
         }
@@ -270,15 +447,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:53:45.634Z",
+    "last_updated": "2026-08-29T04:07:34.451Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
+      "homepage": "https://playcanvas.com",
       "id": 211407533,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-22T19:23:40Z",
+      "open_issues": 0,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 482
+      "stars": 482,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "playcanvas",
+        "webgl"
+      ]
     },
     "original_repository_sha": "a6cd446dae98911b6504ad675ee9acf6b929ac0f",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
