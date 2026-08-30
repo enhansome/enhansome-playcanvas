@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,577 | 🐛 531 | 🌐 JavaScript | 📅 2026-08-29 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,582 | 🐛 527 | 🌐 JavaScript | 📅 2026-08-29 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 794 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 525 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-19 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 108 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-27 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 108 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-29 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -70,7 +70,7 @@
 ## Extensions and Utilities
 
 * [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,136 | 🐛 25 | 🌐 TypeScript | 📅 2025-01-11 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,879 | 🐛 133 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,881 | 🐛 133 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 257 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 52 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-31 - Spine plugin for PlayCanvas for 2D animations.
@@ -259,6 +259,7 @@
 * [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 * [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 * [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+* [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
 * [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 * [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 * [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
@@ -276,6 +277,7 @@
 * [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 * [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 * [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
+* [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
 * [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 * [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
 * [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
@@ -305,8 +307,8 @@
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 482 | 🐛 0 | 📅 2026-08-22 for details.
+Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 483 | 🐛 0 | 📅 2026-08-29 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
