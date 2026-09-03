@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:52:54Z",
-            "open_issues": 518,
+            "last_commit": "2026-09-02T21:46:59Z",
+            "open_issues": 516,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16601,
+            "stars": 16609,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -87,7 +87,7 @@
             "open_issues": 22,
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "3d",
               "gaussian",
@@ -111,11 +111,11 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:44:01Z",
+            "last_commit": "2026-09-02T15:18:13Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "custom-elements",
               "declarative",
@@ -212,7 +212,7 @@
             "open_issues": 144,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7885,
+            "stars": 7890,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -447,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:59:33.755Z",
+    "last_updated": "2026-09-03T01:05:30.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -455,11 +455,11 @@
       "id": 211407533,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-29T19:30:02Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-03T00:42:40Z",
+      "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "awesome",
         "awesome-list",
