@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:44:21Z",
-            "open_issues": 515,
+            "last_commit": "2026-09-04T23:46:02Z",
+            "open_issues": 513,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16613,
+            "stars": 16628,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:44:01Z",
+            "last_commit": "2026-09-04T14:16:55Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -212,7 +212,7 @@
             "open_issues": 144,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7891,
+            "stars": 7894,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -423,6 +423,37 @@
         },
         {
           "node_type": "item",
+          "title": "playcanvas-react-colyseus",
+          "description": "Starter template for multiplayer games with React and Colyseus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PlayCanvas + React + Colyseus starter for multiplayer 3D games.",
+            "homepage": null,
+            "id": 1325988541,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-03T22:43:32Z",
+            "open_issues": 0,
+            "owner": "JonasPfi",
+            "repo": "PlayCanvasReactColyseus",
+            "stars": 4,
+            "topics": [
+              "colyseus",
+              "game-development",
+              "multiplayer",
+              "playcanvas",
+              "react",
+              "starter-template",
+              "typescript",
+              "vite",
+              "websocket"
+            ]
+          },
+          "first_seen": "2026-09-05T00:53:02.713Z"
+        },
+        {
+          "node_type": "item",
           "title": "Sublime Completions",
           "description": "Sublime Text Autocompletion for the PlayCanvas API.",
           "children": [],
@@ -447,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:56:27.271Z",
+    "last_updated": "2026-09-05T00:53:02.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -455,7 +486,7 @@
       "id": 211407533,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-03T00:42:40Z",
+      "last_commit": "2026-09-04T14:25:03Z",
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
@@ -467,7 +498,7 @@
         "webgl"
       ]
     },
-    "original_repository_sha": "fa766af785a353633d4ad661fd8d07e2006de8f8",
+    "original_repository_sha": "60146fd7bacbd3a5dc2a0e31aa2e55d7b9a2de9f",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
     "title": "Awesome PlayCanvas with stars"
