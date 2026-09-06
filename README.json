@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:46:02Z",
-            "open_issues": 513,
+            "last_commit": "2026-09-05T23:07:34Z",
+            "open_issues": 512,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16628,
+            "stars": 16640,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:16:55Z",
+            "last_commit": "2026-09-05T23:39:14Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -179,7 +179,7 @@
             "open_issues": 25,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10138,
+            "stars": 10140,
             "topics": [
               "animation",
               "easing",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "JonasPfi",
             "repo": "PlayCanvasReactColyseus",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "colyseus",
               "game-development",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:53:02.713Z",
+    "last_updated": "2026-09-06T00:51:37.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -490,7 +490,7 @@
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 484,
+      "stars": 485,
       "topics": [
         "awesome",
         "awesome-list",
