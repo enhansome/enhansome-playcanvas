@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T23:55:25Z",
-            "open_issues": 514,
+            "last_commit": "2026-09-09T15:29:13Z",
+            "open_issues": 501,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16675,
+            "stars": 16688,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:47:05Z",
+            "last_commit": "2026-09-09T22:14:59Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -217,7 +217,7 @@
             "open_issues": 144,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7902,
+            "stars": 7907,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -490,7 +490,7 @@
             "id": 1226648849,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-08T20:04:03Z",
+            "last_commit": "2026-09-09T16:41:29Z",
             "open_issues": 0,
             "owner": "AlexAPPi",
             "repo": "playcanvas-opti-pixel",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:12:46.685Z",
+    "last_updated": "2026-09-10T01:00:53.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
