@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T20:40:03Z",
-            "open_issues": 496,
+            "open_issues": 497,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16712,
+            "stars": 16765,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -180,7 +180,7 @@
             "id": 691146,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T07:13:09Z",
+            "last_commit": "2026-09-13T21:24:34Z",
             "open_issues": 26,
             "owner": "tweenjs",
             "repo": "tween.js",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:54:56.250Z",
+    "last_updated": "2026-09-14T00:58:56.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
