@@ -31,9 +31,9 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,788 | 🐛 496 | 🌐 JavaScript | 📅 2026-09-14 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,841 | 🐛 498 | 🌐 JavaScript | 📅 2026-09-15 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 794 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - Open source front-end framework used by the PlayCanvas toolset.
-* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 526 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-11 - Open source React wrapper for the PlayCanvas Engine.
+* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 528 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-11 - Open source React wrapper for the PlayCanvas Engine.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 109 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-09 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
@@ -69,8 +69,8 @@
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,142 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-14 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,916 | 🐛 144 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,142 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-15 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,919 | 🐛 144 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 257 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 52 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-31 - Spine plugin for PlayCanvas for 2D animations.
@@ -94,6 +94,7 @@
 * [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
 * [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
 * [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slot machine.
+* [Water](https://marklundin.github.io/water/) - High fidelity water simulation with caustics.
 
 ## Interactive Experiences
 
@@ -309,8 +310,8 @@
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 487 | 🐛 2 | 📅 2026-09-06 for details.
+Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 491 | 🐛 2 | 📅 2026-09-15 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
