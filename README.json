@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:04:39Z",
-            "open_issues": 486,
+            "last_commit": "2026-09-19T22:51:40Z",
+            "open_issues": 485,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16825,
+            "stars": 16829,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -58,7 +58,7 @@
             "open_issues": 23,
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 794,
+            "stars": 793,
             "topics": [
               "pcui",
               "playcanvas",
@@ -87,7 +87,7 @@
             "open_issues": 24,
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "3d",
               "gaussian",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:14:59Z",
+            "last_commit": "2026-09-19T19:53:01Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -180,11 +180,11 @@
             "id": 691146,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T01:06:24Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-19T01:14:43Z",
+            "open_issues": 23,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10143,
+            "stars": 10144,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 144,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7924,
+            "stars": 7927,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:07:52.862Z",
+    "last_updated": "2026-09-20T01:01:54.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
