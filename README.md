@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,916 | 🐛 458 | 🌐 JavaScript | 📅 2026-09-24 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,928 | 🐛 454 | 🌐 JavaScript | 📅 2026-09-25 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - Open source front-end framework used by the PlayCanvas toolset.
-* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 533 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-24 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 110 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-24 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 534 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-25 - Open source React wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 110 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-25 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -69,8 +69,8 @@
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,147 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-22 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,934 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,148 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-22 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,935 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 257 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 52 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-31 - Spine plugin for PlayCanvas for 2D animations.
@@ -79,7 +79,7 @@
 * [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2023-05-04 - An integration with the p2.js 2D physics engine.
 * [Kinematic Character Controller](https://github.com/tatelax/playcanvas-kinematic-character-controller) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-20 - An open-source kinematic character controller.
 * [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-06 - REST API wrapper for Node.js.
-* [playcanvas-react-colyseus](https://github.com/JonasPfi/PlayCanvasReactColyseus) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-11 - Starter template for multiplayer games with React and Colyseus.
+* [playcanvas-react-colyseus](https://github.com/JonasPfi/PlayCanvasReactColyseus) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - Starter template for multiplayer games with React and Colyseus.
 * [Sublime Completions](https://github.com/playcanvas/sublime-completions) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-02 - Sublime Text Autocompletion for the PlayCanvas API.
 * [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-21 - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
 * [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
@@ -314,4 +314,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
