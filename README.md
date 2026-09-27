@@ -31,11 +31,11 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,928 | 🐛 454 | 🌐 JavaScript | 📅 2026-09-25 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,933 | 🐛 458 | 🌐 JavaScript | 📅 2026-09-26 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 534 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-25 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 110 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-25 - Open source Web Components wrapper for the PlayCanvas Engine.
-* [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 110 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-26 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 16 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 
@@ -81,7 +81,7 @@
 * [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-06 - REST API wrapper for Node.js.
 * [playcanvas-react-colyseus](https://github.com/JonasPfi/PlayCanvasReactColyseus) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - Starter template for multiplayer games with React and Colyseus.
 * [Sublime Completions](https://github.com/playcanvas/sublime-completions) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-02 - Sublime Text Autocompletion for the PlayCanvas API.
-* [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-21 - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
+* [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
 * [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
 * [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
@@ -310,8 +310,8 @@
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 492 | 🐛 2 | 📅 2026-09-15 for details.
+Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) ⭐ 491 | 🐛 2 | 📅 2026-09-15 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
