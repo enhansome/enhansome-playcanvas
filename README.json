@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T02:23:01Z",
-            "open_issues": 463,
+            "last_commit": "2026-09-29T23:00:07Z",
+            "open_issues": 457,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16945,
+            "stars": 16954,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T22:59:44Z",
+            "last_commit": "2026-09-29T20:43:49Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -184,7 +184,7 @@
             "open_issues": 9,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10147,
+            "stars": 10146,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7936,
+            "stars": 7938,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -490,7 +490,7 @@
             "id": 1226648849,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-26T19:15:42Z",
+            "last_commit": "2026-09-29T19:43:19Z",
             "open_issues": 0,
             "owner": "AlexAPPi",
             "repo": "playcanvas-opti-pixel",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:33:24.221Z",
+    "last_updated": "2026-09-30T02:02:23.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
