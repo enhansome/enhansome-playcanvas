@@ -19,7 +19,7 @@
             "open_issues": 455,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16974,
+            "stars": 16978,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -184,7 +184,7 @@
             "open_issues": 9,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10147,
+            "stars": 10148,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7940,
+            "stars": 7941,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -252,7 +252,7 @@
             "open_issues": 11,
             "owner": "playcanvas",
             "repo": "playcanvas-ar",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "augmented-reality",
               "html5",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:53.247Z",
+    "last_updated": "2026-10-04T02:32:35.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -516,7 +516,7 @@
       "open_issues": 2,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 491,
+      "stars": 492,
       "topics": [
         "awesome",
         "awesome-list",
