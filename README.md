@@ -31,7 +31,7 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,986 | 🐛 459 | 🌐 JavaScript | 📅 2026-10-06 - Open source JavaScript graphics application framework.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 16,986 | 🐛 458 | 🌐 JavaScript | 📅 2026-10-06 - Open source JavaScript graphics application framework.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-11 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 536 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-28 - Open source React wrapper for the PlayCanvas Engine.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 111 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-05 - Open source Web Components wrapper for the PlayCanvas Engine.
