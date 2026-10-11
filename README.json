@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T15:43:54Z",
-            "open_issues": 461,
+            "last_commit": "2026-10-10T20:23:19Z",
+            "open_issues": 463,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16998,
+            "stars": 17001,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -184,7 +184,7 @@
             "open_issues": 9,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10147,
+            "stars": 10148,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7952,
+            "stars": 7953,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:16:14.473Z",
+    "last_updated": "2026-10-11T01:48:34.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
