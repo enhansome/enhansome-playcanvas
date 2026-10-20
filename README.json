@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T19:55:47Z",
-            "open_issues": 463,
+            "last_commit": "2026-10-19T16:50:48Z",
+            "open_issues": 464,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17083,
+            "stars": 17090,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -87,7 +87,7 @@
             "open_issues": 21,
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 542,
+            "stars": 544,
             "topics": [
               "3d",
               "gaussian",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T07:49:18Z",
+            "last_commit": "2026-10-19T17:51:47Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -184,7 +184,7 @@
             "open_issues": 9,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10148,
+            "stars": 10149,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7971,
+            "stars": 7972,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -391,7 +391,7 @@
             "open_issues": 0,
             "owner": "tatelax",
             "repo": "playcanvas-kinematic-character-controller",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "controller",
               "kinematic",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:08:14.998Z",
+    "last_updated": "2026-10-20T01:44:08.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -512,11 +512,11 @@
       "id": 211407533,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-17T12:39:13Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-19T08:20:33Z",
+      "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 494,
+      "stars": 495,
       "topics": [
         "awesome",
         "awesome-list",
@@ -524,7 +524,7 @@
         "webgl"
       ]
     },
-    "original_repository_sha": "5476a45a89ae11db3abd8b395ff175c0d5c3636d",
+    "original_repository_sha": "38006a7efb29d55c29d1deac1f2cc90af8d6fec0",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
     "title": "Awesome PlayCanvas with stars"
