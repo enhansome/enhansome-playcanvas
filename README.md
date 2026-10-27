@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,137 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-23 - Open source JavaScript graphics application framework.
-* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-25 - Open source front-end framework used by the PlayCanvas toolset.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,143 | 🐛 466 | 🌐 JavaScript | 📅 2026-10-26 - Open source JavaScript graphics application framework.
+* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-26 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 544 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-25 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 111 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-25 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 112 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-05 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -70,7 +70,7 @@
 ## Extensions and Utilities
 
 * [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,149 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-06 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,983 | 🐛 147 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 7,984 | 🐛 147 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 260 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Spine plugin for PlayCanvas for 2D animations.
@@ -199,10 +199,10 @@
 * [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
 * [Farm Land](https://www.youtube.com/playables/Ugkxsk_eNi3xerLPa1SuoUIftBIWxzlTCbAN) - Grow produce to expand your land.
 * [Free Kick Football](https://www.youtube.com/playables/UgkxjX3-84ZFPZHSm99ZIsn9eqPQQSoWJPxS) - Curve the ball to score goals.
-* [Full Speed Racing](https://www.youtube.com/playables/UgkxbgLQk7KP4zQKHctwKY-XKtpJ_OBWL4aO) - Drive as far as you can before the time runs out.
 * [Om Nom Run](https://www.youtube.com/playables/UgkxiSWh_UPnG4BImBX7gI3KVDLxT2Wm1PiJ) - Endless runner.
 * [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 * [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
+* [Street Fighter Combo Challenge](https://www.youtube.com/playables/UgkxGF7ES_oNTQGaOOKydm_B80zczREKGCRB) - Test your skills by landing combos in this Street Fighter tie-in.
 
 ## Automotive
 
@@ -314,4 +314,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

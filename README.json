@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T23:18:38Z",
-            "open_issues": 473,
+            "last_commit": "2026-10-26T17:51:28Z",
+            "open_issues": 466,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17137,
+            "stars": 17143,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -54,7 +54,7 @@
             "id": 286531410,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T04:54:07Z",
+            "last_commit": "2026-10-26T15:26:11Z",
             "open_issues": 25,
             "owner": "playcanvas",
             "repo": "pcui",
@@ -111,11 +111,11 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T23:53:51Z",
+            "last_commit": "2026-10-26T23:36:16Z",
             "open_issues": 4,
             "owner": "playcanvas",
             "repo": "web-components",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "custom-elements",
               "declarative",
@@ -217,7 +217,7 @@
             "open_issues": 147,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7983,
+            "stars": 7984,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:06:06.396Z",
+    "last_updated": "2026-10-27T02:00:19.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -512,7 +512,7 @@
       "id": 211407533,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-19T08:20:33Z",
+      "last_commit": "2026-10-26T17:47:47Z",
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
@@ -524,7 +524,7 @@
         "webgl"
       ]
     },
-    "original_repository_sha": "38006a7efb29d55c29d1deac1f2cc90af8d6fec0",
+    "original_repository_sha": "95c7b777f4e68a479bcb87edc2d84a4b82945407",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
     "title": "Awesome PlayCanvas with stars"
