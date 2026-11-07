@@ -31,11 +31,11 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,214 | 🐛 464 | 🌐 JavaScript | 📅 2026-11-06 - Open source JavaScript graphics application framework.
-* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-05 - Open source front-end framework used by the PlayCanvas toolset.
-* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 550 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-05 - Open source React wrapper for the PlayCanvas Engine.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,228 | 🐛 465 | 🌐 JavaScript | 📅 2026-11-07 - Open source JavaScript graphics application framework.
+* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-06 - Open source front-end framework used by the PlayCanvas toolset.
+* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 550 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-06 - Open source React wrapper for the PlayCanvas Engine.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 113 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-01 - Open source Web Components wrapper for the PlayCanvas Engine.
-* [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 17 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-05 - Open source tool for reprojecting textures.
+* [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-06 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 
@@ -69,8 +69,8 @@
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,149 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,160 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,149 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-06 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,170 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 260 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Spine plugin for PlayCanvas for 2D animations.
@@ -81,7 +81,7 @@
 * [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-06 - REST API wrapper for Node.js.
 * [playcanvas-react-colyseus](https://github.com/JonasPfi/PlayCanvasReactColyseus) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-25 - Starter template for multiplayer games with React and Colyseus.
 * [Sublime Completions](https://github.com/playcanvas/sublime-completions) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-02 - Sublime Text Autocompletion for the PlayCanvas API.
-* [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-05 - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
+* [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
 * [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
 * [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
@@ -314,4 +314,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
