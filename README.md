@@ -31,10 +31,10 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,245 | 🐛 465 | 🌐 JavaScript | 📅 2026-11-09 - Open source JavaScript graphics application framework.
-* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-06 - Open source front-end framework used by the PlayCanvas toolset.
-* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 550 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-06 - Open source React wrapper for the PlayCanvas Engine.
-* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 113 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-01 - Open source Web Components wrapper for the PlayCanvas Engine.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,255 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-10 - Open source JavaScript graphics application framework.
+* [PCUI](https://github.com/playcanvas/pcui) ⭐ 793 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-09 - Open source front-end framework used by the PlayCanvas toolset.
+* [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 551 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-06 - Open source React wrapper for the PlayCanvas Engine.
+* [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 113 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-10 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-06 - Open source tool for reprojecting textures.
 * [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 * [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
@@ -70,7 +70,7 @@
 ## Extensions and Utilities
 
 * [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,149 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-09 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,173 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,179 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 260 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Spine plugin for PlayCanvas for 2D animations.
@@ -314,4 +314,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
