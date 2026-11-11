@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T02:14:54Z",
-            "open_issues": 462,
+            "last_commit": "2026-11-11T02:13:34Z",
+            "open_issues": 463,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17255,
+            "stars": 17266,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -58,7 +58,7 @@
             "open_issues": 22,
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "pcui",
               "playcanvas",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T01:27:32Z",
+            "last_commit": "2026-11-10T14:38:31Z",
             "open_issues": 3,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -184,7 +184,7 @@
             "open_issues": 12,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10149,
+            "stars": 10152,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 8179,
+            "stars": 8186,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -490,7 +490,7 @@
             "id": 1226648849,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-08T17:25:59Z",
+            "last_commit": "2026-11-11T00:22:45Z",
             "open_issues": 0,
             "owner": "AlexAPPi",
             "repo": "playcanvas-opti-pixel",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:35:14.996Z",
+    "last_updated": "2026-11-11T02:43:44.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
