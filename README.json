@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T02:14:28Z",
-            "open_issues": 461,
+            "last_commit": "2026-11-13T02:13:06Z",
+            "open_issues": 464,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17275,
+            "stars": 17278,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:46:01.733Z",
+    "last_updated": "2026-11-13T03:21:51.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -516,7 +516,7 @@
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 503,
+      "stars": 504,
       "topics": [
         "awesome",
         "awesome-list",
