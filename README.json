@@ -10,16 +10,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+            "description": "Open-source web graphics engine built on WebGPU and WebGL2",
             "homepage": "https://playcanvas.com",
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T02:14:40Z",
-            "open_issues": 462,
+            "last_commit": "2026-11-16T02:16:47Z",
+            "open_issues": 468,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17296,
+            "stars": 17305,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -58,7 +58,7 @@
             "open_issues": 23,
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "pcui",
               "playcanvas",
@@ -87,7 +87,7 @@
             "open_issues": 22,
             "owner": "playcanvas",
             "repo": "react",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "3d",
               "gaussian",
@@ -184,7 +184,7 @@
             "open_issues": 12,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10154,
+            "stars": 10156,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 148,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 8192,
+            "stars": 8194,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:34:20.658Z",
+    "last_updated": "2026-11-16T02:41:08.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
