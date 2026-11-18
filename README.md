@@ -31,8 +31,8 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,314 | 🐛 490 | 🌐 JavaScript | 📅 2026-11-17 - Open source JavaScript graphics application framework.
-* [PCUI](https://github.com/playcanvas/pcui) ⭐ 795 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11 - Open source front-end framework used by the PlayCanvas toolset.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,321 | 🐛 490 | 🌐 JavaScript | 📅 2026-11-18 - Open source JavaScript graphics application framework.
+* [PCUI](https://github.com/playcanvas/pcui) ⭐ 796 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 553 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-11 - Open source React wrapper for the PlayCanvas Engine.
 * [PlayCanvas Web Components](https://github.com/playcanvas/web-components) ⭐ 114 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-17 - Open source Web Components wrapper for the PlayCanvas Engine.
 * [Texture Tool](https://github.com/playcanvas/texture-tool) ⭐ 17 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-06 - Open source tool for reprojecting textures.
@@ -69,8 +69,8 @@
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,156 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-17 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,193 | 🐛 148 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,158 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-17 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,195 | 🐛 149 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 260 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Spine plugin for PlayCanvas for 2D animations.
@@ -256,6 +256,7 @@
 * [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 * [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 * [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
+* [KosmoWorld](https://www.kosmoworld.com/) - Explore and share 3D scenes captured with Hesai's Kosmo.
 * [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 * [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 * [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
@@ -283,7 +284,6 @@
 * [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
 * [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 * [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
-* [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 * [Voxelo](https://www.voxelo.ai/) - AI-powered studio turning product videos into realistic 3D digital twins.
 * [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 
@@ -314,4 +314,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
