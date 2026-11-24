@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T02:16:50Z",
-            "open_issues": 506,
+            "last_commit": "2026-11-24T02:15:01Z",
+            "open_issues": 519,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17350,
+            "stars": 17360,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -111,7 +111,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T13:25:45Z",
+            "last_commit": "2026-11-23T16:08:56Z",
             "open_issues": 5,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -184,7 +184,7 @@
             "open_issues": 11,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10161,
+            "stars": 10162,
             "topics": [
               "animation",
               "easing",
@@ -217,7 +217,7 @@
             "open_issues": 135,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 8205,
+            "stars": 8210,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -490,7 +490,7 @@
             "id": 1226648849,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-21T19:38:51Z",
+            "last_commit": "2026-11-24T05:23:56Z",
             "open_issues": 0,
             "owner": "AlexAPPi",
             "repo": "playcanvas-opti-pixel",
@@ -504,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:40:38.620Z",
+    "last_updated": "2026-11-24T06:55:15.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -516,7 +516,7 @@
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 504,
+      "stars": 505,
       "topics": [
         "awesome",
         "awesome-list",
