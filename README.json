@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T02:15:01Z",
-            "open_issues": 519,
+            "last_commit": "2026-11-25T02:15:30Z",
+            "open_issues": 516,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17360,
+            "stars": 17368,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -44,6 +44,65 @@
         },
         {
           "node_type": "item",
+          "title": "SuperSplat",
+          "description": "Open source editor for 3D Gaussian Splats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "3D Gaussian Splat Editor",
+            "homepage": "https://superspl.at/editor",
+            "id": 707265118,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-19T16:01:46Z",
+            "open_issues": 120,
+            "owner": "playcanvas",
+            "repo": "supersplat",
+            "stars": 10722,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "gaussian-splatting",
+              "pcui",
+              "playcanvas",
+              "typescript",
+              "webgl",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-11-25T05:23:16.461Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SplatTransform",
+          "description": "Open source CLI tool and library for processing and converting 3D Gaussian Splats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CLI tool and library for 3D Gaussian splat processing and conversion",
+            "homepage": "https://playcanvas.com",
+            "id": 905829672,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-19T13:40:42Z",
+            "open_issues": 29,
+            "owner": "playcanvas",
+            "repo": "splat-transform",
+            "stars": 1453,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "cli",
+              "gaussian-splatting",
+              "playcanvas",
+              "supersplat",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-25T05:23:16.461Z"
+        },
+        {
+          "node_type": "item",
           "title": "PCUI",
           "description": "Open source front-end framework used by the PlayCanvas toolset.",
           "children": [],
@@ -58,7 +117,7 @@
             "open_issues": 23,
             "owner": "playcanvas",
             "repo": "pcui",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "pcui",
               "playcanvas",
@@ -111,7 +170,7 @@
             "id": 692889966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T16:08:56Z",
+            "last_commit": "2026-11-24T20:05:21Z",
             "open_issues": 5,
             "owner": "playcanvas",
             "repo": "web-components",
@@ -132,6 +191,27 @@
             ]
           },
           "first_seen": "2026-08-28T06:53:45.634Z"
+        },
+        {
+          "node_type": "item",
+          "title": "create-playcanvas",
+          "description": "CLI that scaffolds a Vite-powered PlayCanvas project with TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Quickly scaffold a PlayCanvas project",
+            "homepage": null,
+            "id": 1015482944,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-24T19:39:47Z",
+            "open_issues": 4,
+            "owner": "playcanvas",
+            "repo": "create-playcanvas",
+            "stars": 63,
+            "topics": []
+          },
+          "first_seen": "2026-11-25T05:23:16.461Z"
         },
         {
           "node_type": "item",
@@ -181,7 +261,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T18:51:33Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "tweenjs",
             "repo": "tween.js",
             "stars": 10162,
@@ -214,10 +294,10 @@
             "language": "C++",
             "license": "Zlib",
             "last_commit": "2026-02-27T07:17:13Z",
-            "open_issues": 135,
+            "open_issues": 136,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 8210,
+            "stars": 8219,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -504,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:55:15.517Z",
+    "last_updated": "2026-11-25T05:23:16.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -512,7 +592,7 @@
       "id": 211407533,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-17T16:33:44Z",
+      "last_commit": "2026-11-24T13:58:46Z",
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
@@ -520,11 +600,15 @@
       "topics": [
         "awesome",
         "awesome-list",
+        "gaussian-splatting",
+        "gltf",
         "playcanvas",
-        "webgl"
+        "webgl",
+        "webgpu",
+        "webxr"
       ]
     },
-    "original_repository_sha": "6c596141e32ab0e1d3561346ab3fc13340008774",
+    "original_repository_sha": "53ec1db2de7fdbacd89a7fd6cdd643411154ecba",
     "enhanced_repository": "enhansome/enhansome-playcanvas",
     "enhanced_repository_description": null,
     "title": "Awesome PlayCanvas with stars"
