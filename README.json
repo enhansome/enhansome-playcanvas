@@ -15,11 +15,11 @@
             "id": 19696006,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T02:15:30Z",
-            "open_issues": 516,
+            "last_commit": "2026-11-26T02:14:45Z",
+            "open_issues": 515,
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 17368,
+            "stars": 17380,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -55,10 +55,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-19T16:01:46Z",
-            "open_issues": 120,
+            "open_issues": 119,
             "owner": "playcanvas",
             "repo": "supersplat",
-            "stars": 10722,
+            "stars": 10729,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -84,11 +84,11 @@
             "id": 905829672,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T13:40:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-25T13:56:07Z",
+            "open_issues": 26,
             "owner": "playcanvas",
             "repo": "splat-transform",
-            "stars": 1453,
+            "stars": 1455,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -204,7 +204,7 @@
             "id": 1015482944,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T19:39:47Z",
+            "last_commit": "2026-11-25T16:35:49Z",
             "open_issues": 4,
             "owner": "playcanvas",
             "repo": "create-playcanvas",
@@ -264,7 +264,7 @@
             "open_issues": 10,
             "owner": "tweenjs",
             "repo": "tween.js",
-            "stars": 10162,
+            "stars": 10163,
             "topics": [
               "animation",
               "easing",
@@ -297,7 +297,7 @@
             "open_issues": 136,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 8219,
+            "stars": 8230,
             "topics": [
               "ai",
               "crowd-simulation",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:23:16.461Z",
+    "last_updated": "2026-11-26T04:57:14.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PlayCanvas assets, resources, and more.",
@@ -596,7 +596,7 @@
       "open_issues": 1,
       "owner": "playcanvas",
       "repo": "awesome-playcanvas",
-      "stars": 505,
+      "stars": 506,
       "topics": [
         "awesome",
         "awesome-list",
