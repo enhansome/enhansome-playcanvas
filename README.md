@@ -31,8 +31,8 @@
 
 ## PlayCanvas Products
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,383 | 🐛 505 | 🌐 JavaScript | 📅 2026-11-27 - Open source JavaScript graphics application framework.
-* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 10,735 | 🐛 119 | 🌐 TypeScript | 📅 2026-11-19 - Open source editor for 3D Gaussian Splats.
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,386 | 🐛 508 | 🌐 JavaScript | 📅 2026-11-28 - Open source JavaScript graphics application framework.
+* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 10,742 | 🐛 119 | 🌐 TypeScript | 📅 2026-11-27 - Open source editor for 3D Gaussian Splats.
 * [SplatTransform](https://github.com/playcanvas/splat-transform) ⭐ 1,456 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-25 - Open source CLI tool and library for processing and converting 3D Gaussian Splats.
 * [PCUI](https://github.com/playcanvas/pcui) ⭐ 796 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11 - Open source front-end framework used by the PlayCanvas toolset.
 * [PlayCanvas React](https://github.com/playcanvas/react) ⭐ 553 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-11 - Open source React wrapper for the PlayCanvas Engine.
@@ -70,12 +70,12 @@
 * [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write-ups of 2 PlayCanvas visualization applications.
 * [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 * [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
-* [YouTube Playables Template](https://github.com/google/web-game-samples/tree/main/playcanvas) ⭐ 134 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-23 - Official starter project for building YouTube Playables.
+* [YouTube Playables Template](https://github.com/google/web-game-samples/tree/main/playcanvas) ⭐ 136 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-23 - Official starter project for building YouTube Playables.
 
 ## Extensions and Utilities
 
-* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,165 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-17 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,244 | 🐛 137 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
+* [tween.js](https://github.com/tweenjs/tween.js/) ⭐ 10,165 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-27 - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+* [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) ⭐ 8,259 | 🐛 137 | 🌐 C++ | 📅 2026-02-27 for PlayCanvas.
 * [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) ⭐ 260 | 🐛 11 | 🌐 JavaScript | 📅 2022-02-02 - Marker-based AR solution built on ARToolkit.
 * [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) ⭐ 68 | 🐛 15 | 🌐 JavaScript | 📅 2025-01-30 - Officially supported tween animation plugin.
 * [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-09 - Spine plugin for PlayCanvas for 2D animations.
@@ -303,4 +303,4 @@ Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
